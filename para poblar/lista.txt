@@ -1,0 +1,6 @@
+numLista idPartido subLema
+123, 001, "Uruguay unido"
+234, 002, "Por mas seguridad" 
+345, 003, "Aguante peñarol"
+456, 004, "Ecologia" 
+567, 005, "Mas educacion"  

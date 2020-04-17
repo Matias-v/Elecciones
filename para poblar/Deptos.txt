@@ -1,0 +1,8 @@
+001,"Montevideo"
+002,"canelones"
+003,"san jose"
+004,"florida"
+005,"flores"
+006,"rocha"
+007,"Artigas"
+008,"Rivera"

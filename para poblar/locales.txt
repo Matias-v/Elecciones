@@ -1,0 +1,5 @@
+idlocal-numpuerta-nomcalle-idciudad
+0001,3545,"av.8 octubre y felipe sanguinetti",100
+0002,1190,"benign paiva y miguel grau",100
+0003,325,"sarandi y colon",100
+0004,561,"rincon y ituizango",100

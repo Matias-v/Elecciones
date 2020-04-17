@@ -1,0 +1,5 @@
+idRol,numList,ccSerieINT,ccNumINT
+1, 123, "aaa", 100
+2, 123, "bbb", 010 
+3, 234, "aaa", 090
+4, 234, "aaa", 050 

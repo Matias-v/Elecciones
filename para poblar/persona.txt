@@ -1,0 +1,6 @@
+ccSerie,ccNum,pNom,sNom,pApe,sApe,numCir
+"aaa",100,"Roberto","Pepe","Viera","Struquen","001"
+"bbb",010,"José","Lucas","Servetto","Diaz","002"
+"aaa",101,"Ruben","Jorge","Dupin","Beron","003"
+"aaa",090,"Norberto","Pepe","Gomez","Girino","001"
+"bbb",050,"Jesus","Mario","Halegoa","Freire","002"

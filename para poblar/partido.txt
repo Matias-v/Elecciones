@@ -1,0 +1,6 @@
+idPartido nombrePartido
+001, "Blanco"
+002, "Colorados"
+003, "Frente Amplio"
+004, "Ecologistas"
+005, "Independiente"

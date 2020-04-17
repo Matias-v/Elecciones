@@ -1,0 +1,7 @@
+1,"titular"
+2 primer suplente
+3 segundo suplente
+4 tercer suplente
+5 representante
+6 presidente mesa
+7 vocales

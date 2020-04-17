@@ -1,0 +1,4 @@
+idciudad-iddepto-nombre
+100,001,"montevideo"
+101,001,"las piedras"
+102,004,"florida"
